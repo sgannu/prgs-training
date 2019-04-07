@@ -27,4 +27,5 @@ Assignments:
     step3. display events for week
     step4. display events for month
 
-
+## Session 3:
+  - 
