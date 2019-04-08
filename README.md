@@ -33,5 +33,6 @@ Assignments:
   Assignments:
   - Copy calendar project and remove maven and add gradle?
   - Try to access instance variable from static method and notice the error.
+  - Program to generate first N fibonacci numbers.
 
   
