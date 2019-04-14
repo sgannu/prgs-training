@@ -15,5 +15,13 @@ public class CalendarController {
     model.addAttribute("name", name);
     return "greeting";
   }
+  
+  @GetMapping("/calendar")
+  public String calendarControl() {
+	  
+	  
+	  return "calendar";
+  }
+
 
 }
