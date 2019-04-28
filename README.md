@@ -34,5 +34,9 @@ Assignments:
   - Copy calendar project and remove maven and add gradle?
   - Try to access instance variable from static method and notice the error.
   - Program to generate first N fibonacci numbers.
-
+  - POST event to calender to create new event for today.
+  - Then display the events added under todays events.
+  - Build a screen to enter a number (N) to send to POST or (GET with url param) then diplay the first N fibonacci numbers.
+  
+# session 4:
   
