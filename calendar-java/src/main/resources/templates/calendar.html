@@ -7,17 +7,17 @@
 </head>
 
 <body>
-<h1>Calendar</h1>
+  <h1>Calendar</h1>
 
 
-<table  border="1">
-  <tr>
-    <th>Event Title</th>
-  </tr>
-  <tr  th:each="eventVar: ${events}">
-    <td th:text="${eventVar.title}" />
-  </tr>
-</table>
+  <table border="1">
+    <tr>
+      <th>Event Title</th>
+    </tr>
+    <tr th:each="eventVar: ${events}">
+      <td th:text="${eventVar.title}" />
+    </tr>
+  </table>
 
 </body>
 
